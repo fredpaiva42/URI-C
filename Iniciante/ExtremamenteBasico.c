@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int ExtremamenteBasico() {
     int a, b, x;
 
     scanf("%d", &a);
