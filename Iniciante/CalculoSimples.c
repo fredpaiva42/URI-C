@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int CalculoSimples() {
 
     int id, qtd, i;
     double valor, total = 0.0;
