@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int Consumo() {
 
     int distancia_percorrida;
     double combustivel_gasto, consumo;
