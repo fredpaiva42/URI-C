@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int Cedulas() {
 
     int valor, qtd_100, qtd_50, qtd_20, qtd_10, qtd_5,qtd_2,qtd_1;
 
