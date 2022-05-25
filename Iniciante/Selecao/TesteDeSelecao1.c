@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int TesteDeSelecao1() {
 
     int A, B, C, D;
 
