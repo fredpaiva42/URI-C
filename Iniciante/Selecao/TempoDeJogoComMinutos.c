@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int TempoDeJogoComMinutos() {
 
     int horaInicial, minutoInicial, horaFinal, minutoFinal, tempo, tempoH, tempoM;
 
