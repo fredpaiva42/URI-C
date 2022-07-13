@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int main() {
+int MediasPonderadas() {
  
     int quantidade;
     double nota1, nota2, nota3, media;
