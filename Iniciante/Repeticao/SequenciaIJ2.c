@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int SequenciaIJ2() {
 
     for (int i = 1; i <= 9; i++){
         if (i % 2 != 0){
