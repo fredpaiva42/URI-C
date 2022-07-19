@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int SomaDeImparesConsecutivosII() {
 
     int qtd_casos, x, y, maior, menor;
 
