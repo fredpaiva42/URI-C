@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int VariasNotasComValidacao() {
 
     double notas, media = 0;
     int querContinuar = 1, contador = 0;
