@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int multiplosDe13() {
 
     int inicio, final, somaDosNaoMultiplosDe13 = 0, temp = 0;
 
