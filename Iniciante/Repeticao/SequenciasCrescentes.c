@@ -5,7 +5,7 @@ int SequenciasCrescentes (void) {
 
     scanf("%d", &entrada);
 
-    while (entrada != 0) {
+    while (entrada) {
         for (int i = 1; i <= entrada; i++){
             if (i == entrada)
                 printf("%d\n", i);
