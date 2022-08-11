@@ -1,0 +1,20 @@
+# include <stdio.h>
+
+int SomandoInteirosConsecutivos (void) {
+    int a, n, soma = 0;
+
+    scanf("%d %d", &a, &n);
+
+    while (n <= 0){
+        scanf("%d", &n);
+    }
+
+    for (int i = 1; i <= n; i++){
+        soma += a;
+        a++;
+    }
+
+    printf("%d\n", soma);
+
+    return 0;
+}
