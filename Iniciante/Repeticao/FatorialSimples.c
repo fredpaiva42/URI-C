@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int FatorialSimples() {
 
     int entrada, N = 1;
 
