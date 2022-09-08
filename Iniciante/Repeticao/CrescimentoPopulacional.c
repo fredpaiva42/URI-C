@@ -12,8 +12,8 @@ int CrescimentoPopulacional(void){
 
         while (PA <= PB){
             anos++;
-            PA += (int) (PA * taxa_crescimentoA)/100;
-            PB += (int) (PB * taxa_crescimentoB)/100;
+            PA *= (taxa_crescimentoA/100.0) + 1.0;
+            PB *= (taxa_crescimentoB/100.0) + 1.0;
 
             if (anos > 100){
                 printf("Mais de 1 seculo.\n");
