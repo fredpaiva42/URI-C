@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-int main(void){
+int NumeroPrimo(void){
     int casos_teste, numero;
     scanf("%d", &casos_teste);
 
