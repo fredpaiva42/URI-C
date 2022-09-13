@@ -10,6 +10,7 @@ int PreenchimentoDeVetorI(void){
         printf("N[%d] = %d\n", i, vetor[i]);
         numero += numero;
     }
-    
+
+
     return 0;
 }
