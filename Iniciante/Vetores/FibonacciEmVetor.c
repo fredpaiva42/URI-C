@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int FibonacciEmVetor(void) {
     int casos_teste, entrada;
     scanf("%d", &casos_teste);
 
