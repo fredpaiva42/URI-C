@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-int main(void){
+int LinhaNaMatriz(void){
     int linhaMatriz, contador = 0;
     double soma = 0, media;
     char operacao[2];
